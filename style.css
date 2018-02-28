@@ -1,9 +1,7 @@
 body {
-		text-align: center;
-		padding: 100px 0 0 0;
-		color: #fff;
-		background: #1d1f20;
+		background: #666;
 }
+
 .container {
   position: relative;
   top: 0;
@@ -11,15 +9,16 @@ body {
 	margin: auto;
 	/* border: red solid 1px; */
 }
-#image-forward {
-		-webkit-animation: forward 2s infinite linear;
-		position:absolute;
-		top: 10px;
 
+#image-forward {
+		-webkit-animation: image-forward 4s infinite linear;
+		position:absolute;
+		margin: auto;
+		opacity: 0.5;
 		z-index: 1;
 }
 
-@-webkit-keyframes forward {
+@-webkit-keyframes image-forward {
 		from {
 				-webkit-transform: rotate(0deg);
 		}
@@ -28,15 +27,15 @@ body {
 		}
 }
 
-#image-backward {
-		-webkit-animation: backward 2s infinite linear;
+#image-reverse {
+		-webkit-animation: image-reverse 4s infinite linear;
 		position:absolute;
-		top: 10px;
-
-		z-index: 2;
+		margin: auto;
+		opacity: 0.5;
+		z-index: 0;
 }
 
-@-webkit-keyframes backward {
+@-webkit-keyframes image-reverse {
 		from {
 				-webkit-transform: rotate(359deg);
 		}

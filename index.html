@@ -4,11 +4,34 @@
     <meta charset="utf-8">
     <title></title>
     <link rel="stylesheet" type="text/css" href="style.css">
+    <script
+			  src="https://code.jquery.com/jquery-3.3.1.js"
+			  integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+			  crossorigin="anonymous"></script>
   </head>
   <body>
+    <audio src="./assets/audio/1.ogg" autoplay loop>
+      Your browser does not support the <code>audio</code> element.
+    </audio>
     <div class="container">
-      <img id="image-forward" src="http://www.vitorazevedo.net/external_files/loading_small.png">
-      <img id="image-backward" src="http://www.vitorazevedo.net/external_files/loading_small.png">
+      <img id="image-forward" src="./assets/images/1a.jpg">
+      <img id="image-reverse" src="./assets/images/1b.jpg">
     </div>
+    <script>
+      var state = 1;
+      $(document).keyup(function(event) {
+        state++;
+
+        console.log(state);
+
+        $('audio').attr("src", `./assets/audio/${state}.ogg`);
+        $('#image-forward').attr("src", `./assets/images/${state}a.jpg`);
+        $('#image-reverse').attr("src", `./assets/images/${state}b.jpg`);
+
+        if (state === 55){
+          state = 0;
+        }
+      });
+    </script>
   </body>
 </html>
