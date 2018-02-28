@@ -1,0 +1,46 @@
+body {
+		text-align: center;
+		padding: 100px 0 0 0;
+		color: #fff;
+		background: #1d1f20;
+}
+.container {
+  position: relative;
+  top: 0;
+  left: 0;
+	margin: auto;
+	/* border: red solid 1px; */
+}
+#image-forward {
+		-webkit-animation: forward 2s infinite linear;
+		position:absolute;
+		top: 10px;
+
+		z-index: 1;
+}
+
+@-webkit-keyframes forward {
+		from {
+				-webkit-transform: rotate(0deg);
+		}
+		to {
+				-webkit-transform: rotate(359deg);
+		}
+}
+
+#image-backward {
+		-webkit-animation: backward 2s infinite linear;
+		position:absolute;
+		top: 10px;
+
+		z-index: 2;
+}
+
+@-webkit-keyframes backward {
+		from {
+				-webkit-transform: rotate(359deg);
+		}
+		to {
+				-webkit-transform: rotate(0deg);
+		}
+}
