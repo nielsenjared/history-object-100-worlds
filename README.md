@@ -34,20 +34,189 @@ Furthermore, when you encounter the object on display and you pause to contempla
 Objects are paradoxical. They are defined by their relations and yet simultaneously withdrawn from all relations. No matter how we weigh, measure, photograph, x-ray, crush, pulverize, or disintegrate the stone-axe, we will never access its inner realm. It is forever hidden from us as are our own bodies. We will never truly know these meat bags that constitute our being. What we instead encounter are the sensual qualities.
 
 ## The Great Exhibition
-I had access to the ‘vault’.
+I had access to the ‘vault’, the storage room holding countless treasures.
+
 
 ### The Infinity of the Meanwhile
 
-![](images/jared-nielsen-history-object-100-worlds-00.jpg)
+![](images/jared-nielsen-history-object-100-worlds-vault-01.jpg)
+
 
 ### Everything Sits Suspended
 
+![](images/jared-nielsen-history-object-100-worlds-vault-02.jpg)
+
+
 ### Tiny, Separate, but Contiguous Universes
+
+![](images/jared-nielsen-history-object-100-worlds-vault-03.jpg)
+
 
 ### Joined Not By Logic Or Power Or Use But By The Gentle Knot Of The Comma
 
-
+![](images/jared-nielsen-history-object-100-worlds-vault-04.jpg)
 
 A toy truck stamped “Redwood Logger”, a pair of shoe lasts, size 11C, with the inscription Captain Boyd McCook, retired (deceased), an unknown object, a candelstick holder, three melted wax balls, the larger two black, the smaller white, two metal fittinings, hot blackened, a strip of film, two chalk stones, an alligator bone, an OPEN/CLOSE sign, a plastic box, a pinecone, a Horlick’s malted milk bottle, a charred piece of bamboo, a scrap of Chinese newspaper, all within a cardboard box.
 
+
 ### Art is the Mirror Held Up to Reflect the Arbitrary Division Between Nature and Society
+
+![](images/jared-nielsen-history-object-100-worlds-art-01.jpg)
+
+![](images/jared-nielsen-history-object-100-worlds-art-02.jpg)
+
+![](images/jared-nielsen-history-object-100-worlds-art-03.jpg)
+
+
+#### Drawing
+
+This project has brought me back around to art. I was done with it after grad school. The conclusion I came to after becoming a “professional” is that ART IS THE MIRROR HELD UP TO REFLECT THE DIVIDE BETWEEN NATURE AND SOCIETY. I still believe this, but now I no longer think it's a bad thing. Humans will never change. We are forever cursed to be stupid animals that believe we are smart. Drawing is a means by which to communicate the magical qualities of objects even if that object is the drawing itself. Art. And when art is good, it situates us in an environment, in our environment, and teaches us something we didn't know, or did, but forgot, about objects and the world we inhabit. I don't know that these drawings perform this, but it was an experiment to investigate and communicate aspects of these objects that may go unappreciated. Art when it's bad is mired in signs, signifiers, meaning, about-ness, and endless layers of social coding that only those in the know can decipher. Erudite objects. A hall of mirrors.
+
+
+#### Poetry
+
+Poetry is the language of paradox. It is the economical means by which to express more than one idea, often contradictory, simultaneously.
+
+It is also a tool by which to undo the strict bounds of language and highlight the tool-being aspect of language as an object in itself. Words are tools.
+
+The poems associated with each drawing are my experiments in writing didactic wall texts as poetry.
+
+![](images/jared-nielsen-history-object-100-worlds-great-exhibition-alligator-bone.png)
+
+Dear Mr. Green, This Carolina Al-
+
+ligator, did it taste like chicken, sir?
+
+
+![](images/jared-nielsen-history-object-100-worlds-great-exhibition-bamboo.png)
+
+Bamboo or bamboo? That is the question.
+
+
+![](images/jared-nielsen-history-object-100-worlds-great-exhibition-candlestick.png)
+
+This object here, is it a flute played by
+
+some octopus? No, merely candlestick.
+
+
+![](images/jared-nielsen-history-object-100-worlds-great-exhibition-chalk.png)
+
+Two stones of chalk, it is a crime to write
+
+on public blocks: the most benign tagging.
+
+
+![](images/jared-nielsen-history-object-100-worlds-great-exhibition-alligator-bone.png)
+
+This filmstrip here is evidence that at
+
+the end of the world is nothing. Just look.
+
+
+![](images/jared-nielsen-history-object-100-worlds-great-exhibition-film-strip.png)
+
+
+
+
+![](images/jared-nielsen-history-object-100-worlds-great-exhibition-machine-fitting-no-1.png)
+
+An iron fitting for a machine lost
+
+Fine tuning knobs, a bit of rust, four screws.
+
+![](images/jared-nielsen-history-object-100-worlds-great-exhibition-machine-fitting-no-2.png)
+
+Aluminum adjustment knobs for tightening
+
+Black anodized, what is this for this thing?
+
+![](images/jared-nielsen-history-object-100-worlds-great-exhibition-malted-milk-bottle.png)
+
+Metallic paint not malted milk
+
+is Horlick's secret, “The Original”.
+
+
+![](images/jared-nielsen-history-object-100-worlds-great-exhibition-newspaper-scrap.png)
+
+I cannot read this, to me it's all Greek.
+
+
+![](images/jared-nielsen-history-object-100-worlds-great-exhibition-open-closed-sign.png)
+
+Decision: Open, closed. It can't be both.
+
+Perhaps: o'osed, op'sed, ope'ed, opend?
+
+
+![](images/jared-nielsen-history-object-100-worlds-great-exhibition-pine-cone.png)
+
+Upon closer observation, a pine
+
+cone looks like stacks of breasts. Oh sticky sap!
+
+
+![](images/jared-nielsen-history-object-100-worlds-great-exhibition-plastic-box.png)
+
+Made in Taiwan for Woolworth Co, New York
+
+The S K U reads 6 3 2 5 3.
+
+![](images/jared-nielsen-history-object-100-worlds-great-exhibition-redwood-logger.png)
+
+Is this a toy? It isn't clear; the bark
+
+has too much bite for little grubby hands.
+
+
+![](images/jared-nielsen-history-object-100-worlds-great-exhibition-shoe-lasts.png)
+
+A Captain Boyd McCook, deceased did not
+
+out last his lasts. They are a size 11C.
+
+
+![](images/jared-nielsen-history-object-100-worlds-great-exhibition-unknown.png)
+
+I don't know what this is. Distrubingly,
+
+my speculations drift toward my ass.
+
+
+![](images/jared-nielsen-history-object-100-worlds-great-exhibition-wax.png)
+
+Three balls of wax, they aren't Descartes'. The whole
+
+of these objects is quite the shooting match.
+
+## Breaking Objects
+
+![](images/jared-nielsen-history-object-100-worlds-01.png)
+
+If the display of an object and your encounter of that object is a double breaking, then what we have is a quadruple interaction between objects as the object itself encounters you while simultaneously breaking. In the image above, there are three broken objects: two bottles and you.
+
+![](images/jared-nielsen-history-object-100-worlds-breaking-480.gif)
+
+
+I consumed an inordinate amount of San Pellegrino while working in the lab at the ICI during a very hot Los Angeles summer. One day I knocked a glass bottle off my workbench and when it shattered on the floor I got inspired to see what multiple bottles would look like shattering at once. I recorded four individual bottles dropping and breaking at 60 frames per second, broke the video into still images and then stitched the four sequences together into one and re-rendered it back into video format. Fun to make but a pain to clean up.
+
+## Music to Break Phonographs By
+
+![](images/jared-nielsen-history-object-100-worlds-06.JPG)
+
+The ICI holds a small, but eclectic, collection of 45s that intrigued me. Vinyl records are objects inscribed with a message that is both visually and tactilely available to us but only ultimately accessible via an intermediary object, a phonograph.
+
+In addition to Graham Harman and Ian Bogost, I was also reading Timothy Morton during the development of this project. In The Ecological Thought, he discusses a concept Douglas Hofstadter proposes in Goedel, Escher, Bach, of a record designed with the explicit purpose of destroying the phonograph on which it is played. I loved this idea but realized it was beyond the scope of this residency (and maybe my life) to create such a thing and so considered other paradoxical possibilities.
+
+How do you play both sides of a record? I initially proposed building a phonograph that would play both sides of an album simultaneously. (I may still do this, but it was also beyond the scope of the residency.) I set out to do this by digital means. While listening to the 45s in the lab on the portable phonograph pictured above, I became particularly interested in the ‘end skips’ of each 45. When each side of the 45 reached its end, the phonograph, unlike most contemporary phonographs, continued to skip on the noise inscribed in the vinyl. I photographed both sides and recorded the end skips of each 45 from the ICI's collection.
+
+I initially designed the application in openFrameworks, merging both A- and B-side images of each 45 and playing the end skip on a loop. Visitors progressed through each 45 by pressing a button. You can view video documentation of this here: https://youtu.be/385pKdQ1Guk
+
+Or experience it yourself in a slapdash web app here: http://jarednielsen.com/history-object-100-worlds/
+
+## Mobius LP
+
+Lastly, I created my second 3D animation using Blender (my first being the title sequence for The Hello World Program), a record as a Mobius strip, both sides playing forever.
+
+![](images/jared-nielsen-history-object-100-worlds-mobius-lp-960.gif)
