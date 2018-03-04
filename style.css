@@ -6,7 +6,6 @@ body {
 a {
 	text-decoration: none;
 	color: #666;
-	z-index: 1;
 }
 
 .container {
@@ -18,19 +17,15 @@ a {
 }
 
 #lp {
-	width: 1350px;
+	width: 900px;
 	float: left;
 }
 
 #info {
-	float:right;
-	width: 150px;
-	margin-right: 0;
+	margin-right: 10px;
 	padding-right: 0;
-	/* position: fixed;
-	right: 0; */
-	/* padding-left: 100px; */
-	/* color: white; */
+	position: fixed;
+	right: 0;
 }
 
 #image-forward {
